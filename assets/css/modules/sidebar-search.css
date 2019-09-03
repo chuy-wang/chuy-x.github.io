@@ -7,10 +7,14 @@
     border: 1px solid #ddd;
     border-top: none;
     border-bottom: none;
+    box-shadow: 5px 10px 5px #ddd;
 }
 #search_results li {
-    padding: 5px 10px;
     border-bottom: 1px solid #ddd;
+}
+#search_results li a {
+    padding: 5px 10px;
+    display: list-item;
 }
 #search_box {
     width: 100% !important;
