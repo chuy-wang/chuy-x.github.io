@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://chuy-x.github.io/
+url: https://chuy-x.github.io
 date_format: "ordinal"
 title: var_dump(X)
 subtitle: "Dumps information about X"
@@ -79,7 +79,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chuy-x/chuy-x.github.io
+# repository: chuy-x/chuy-x.github.io
 
 # ---------------- #
 #      Comments    #
