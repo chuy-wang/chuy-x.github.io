@@ -4,10 +4,10 @@
 baseurl:
 url: https://chuy-x.github.io/
 date_format: "ordinal"
-title: var_dump(x)
-subtitle: ""
+title: var_dump(X)
+subtitle: "Dumps information about X"
 description: ""
-keywords: var_dump
+keywords: Dumps information about X
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -17,6 +17,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: chuyX
 location: Beijing, China
+github_username: chuy-x
+email: no-email
 
 # ---------------- #
 #    Navigation    #
